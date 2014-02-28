@@ -1,5 +1,9 @@
 ## WinnipegElection.ca
 
+This is no longer the canonical repo for the WinnipegElection.ca code base. 
+
+The official repo can now be found here: https://github.com/OpenDemocracyManitoba/winnipegelection
+
 WinnipegElection.ca is a citizen driven website created for the upcoming 2010 Winnipeg general election. Our mission is to provide Winnipeg voters with information on their mayoral, city council and school trustee candidates.
 
 The website is powered by:
